@@ -1,4 +1,4 @@
-# Hi there, I'm [PhenylPropion(https://github.com/PhenylPropion)]! 👋
+# Hi there, I'm [PhenylPropion!](https://github.com/PhenylPropion) 👋
 
 I'm a Software Engineer based in Japan, currently working on **System Development**.
 My main focus is **Python**, but I also work with compiled languages like **Rust**, **Java**, and **C++**.
