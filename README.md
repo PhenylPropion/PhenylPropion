@@ -25,4 +25,11 @@ My main focus is **Python**, but I also work with compiled languages like **Rust
 * I use Python for most of my projects but appreciate the strictness of Java and C++.
 * I enjoy solving complex logic problems.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhenylPropion&layout=compact&theme=radical)
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=PhenylPropion&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhenylPropion" />
+</a>
