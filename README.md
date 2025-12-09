@@ -27,9 +27,7 @@ My main focus is **Python**, but I also work with compiled languages like **Rust
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=PhenylPropion&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhenylPropion" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhenylPropion&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhenylPropion&layout=compact&theme=radical" alt="Top Langs" />
+</div>
