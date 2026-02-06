@@ -19,8 +19,7 @@ My main focus is **Python**, but I also work with compiled languages like **Rust
 
 ### 🔭 I'm currently working on
 * Developing robust enterprise systems.
-* Exploring **Rust** for performance-critical components.
-
+* Python-based program execution management system
 ### ⚡ About Me
 * I use Python for most of my projects but appreciate the strictness of Java and C++.
 * I enjoy solving complex logic problems.
