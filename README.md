@@ -21,8 +21,8 @@ My main focus is **Python**, but I also work with compiled languages like **Rust
 * Developing robust enterprise systems.
 * Python-based program execution management system
 ### ⚡ About Me
-* I use Python for most of my projects but appreciate the strictness of Java and C++.
-* I enjoy solving complex logic problems.
+* I use Python for most of my projects.
+* I usually practice coding on LeetCode.
 
 ---
 
