@@ -44,4 +44,5 @@ My main focus is **Python**.
 * I usually practice coding on LeetCode.
 
 ---
+### Public Repository Language Stats/公開リポジトリの統計
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhenylPropion&layout=compact" />
