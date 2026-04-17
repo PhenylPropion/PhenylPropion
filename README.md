@@ -44,4 +44,4 @@ My main focus is **Python**.
 * I usually practice coding on LeetCode.
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhenylPropion&show_icons=true&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhenylPropion&layout=compact" />
