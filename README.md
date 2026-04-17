@@ -1,32 +1,47 @@
 # Hi there, I'm [PhenylPropion!](https://github.com/PhenylPropion) 👋
 
 I'm a Software Engineer based in Japan, currently working on **System Development**.
-My main focus is **Python**, but I also work with compiled languages like **Rust**, **Java**, and **C++**.
+My main focus is **Python**.
 
 ### 🛠 Skills
 
+<h3 align="left">Main Focus</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=py,regex,bash,git,github,docker,linux" />
 </p>
+
+<h3 align="left">Secondary</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cpp,mysql,postgres,redis," />
+</p>
+
+<h3 align="left">Applied in Projects</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,bsd,selenium" />
+</p>
+
+<h3 align="left">Currently Learning</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,neovim,vim,go" />
+</p>
+
+<h3 align="left">Development Environments</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,anaconda" />
+</p>
+
 
 * **Main Focus:** Python (Backend & Scripting)
 * **System & Performance:** Rust, C++, Java
-* **Database:** Oracle SQL
+* **Database:** Oracle SQL and other
 
 ### 🔭 I'm currently working on
 * Developing robust enterprise systems.
 * Python-based program execution management system
+* Used  <img src="https://skillicons.dev/icons?i=py,docker,postgres,redis,linux,aws,git,github,selenium" height="20" />
 ### ⚡ About Me
 * I use Python for most of my projects.
 * I usually practice coding on LeetCode.
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhenylPropion&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhenylPropion&layout=compact&theme=radical" alt="Top Langs" />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhenylPropion&show_icons=true&theme=transparent)
