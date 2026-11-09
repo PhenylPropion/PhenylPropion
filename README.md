@@ -12,7 +12,7 @@ My main focus is **Python**.
 
 <h3 align="left">Secondary</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,mysql,postgres,redis," />
+  <img src="https://skillicons.dev/icons?i=java,cpp,mysql,postgres,redis,kafka" />
 </p>
 
 <h3 align="left">Applied in Projects</h3>
@@ -36,12 +36,13 @@ My main focus is **Python**.
 * **Database:** Oracle SQL and other
 
 ### 🔭 I'm currently working on
-* Developing robust enterprise systems.
-* Python-based program execution management system
-* Used  <img src="https://skillicons.dev/icons?i=py,docker,postgres,redis,linux,aws,git,github,selenium" height="20" />
+* Developing an internal developer platform tailored for company-wide data operations.
+* Python-based Scalable Distributed Data Processing and Management Platform system
+* Used  <img src="https://skillicons.dev/icons?i=py,docker,postgres,redis,linux,aws,git,github,selenium" height="20" /> and more...
 ### ⚡ About Me
 * I use Python for most of my projects.
 * I usually practice coding on LeetCode.
+* Main forcusing Distributed system and Platform Engineering.
 
 ---
 ### Public Repository Language Stats/公開リポジトリの統計
