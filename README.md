@@ -1,6 +1,6 @@
 # Hi there, I'm [PhenylPropion!](https://github.com/PhenylPropion) 👋
 
-I'm a Software Engineer based in Japan, currently working on **System Development**.
+I'm a Engineer based in Japan, currently working on **System Development**.
 My main focus is **Python**.
 
 ### 🛠 Skills
